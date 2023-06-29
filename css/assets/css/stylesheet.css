@@ -1,0 +1,56 @@
+body {
+    background-color: lightcoral;
+    color: white;
+    margin: 50px;
+}
+h1 {
+    color: black;
+    background-color: beige;
+    width: 100%;
+}
+.precioOferta {
+    color:yellow;
+    font-size: 20px;
+}
+th {
+    font-size: 30px;
+}
+.descripcion {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.detalle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tabla{
+background-color: rgb(77, 2, 24);
+border-collapse: colapse;
+width:100%;
+}
+.footer {
+    background-color: black;
+    color: antiquewhite;
+    height: 40px;
+    font-size: 30px;
+}
+#titulo{
+    text-align:justify;
+    color:black;
+    font-size: 100px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin:10px;
+}
+#subtitulo {
+    text-align:justify;
+    font-size: 60px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin:10px;
+}
+#otroSubtitulo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#otroEncabezado {
+    color:black;
+    font-size:30px;
+    text-align:justify;
+    margin: 10px;
+}

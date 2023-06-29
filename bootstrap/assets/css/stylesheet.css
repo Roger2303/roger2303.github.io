@@ -1,0 +1,24 @@
+.navbar1 {
+    background-color: #28a745!important;
+    font-family: Roboto, sans-serif!important;
+    padding: 5px;
+}
+.cupones {
+    color:white;
+    text-align:center;
+}
+.roboto {
+    font-family: Roboto, sans-serif!important;
+}
+.roboto2 {
+    font-family: Roboto, sans-serif!important;
+    color:gray!important;
+    font-size:15px;
+}
+.precios {
+    display: flex!important;
+    font-family: Roboto, sans-serif!important;
+    color: gray!important;
+    font-size:13px;
+    justify-content: space-around;
+}
