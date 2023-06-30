@@ -15,3 +15,11 @@
     margin-left: 10px;
     background-image: url(assets/imgs/currículum.png);
 }
+#footer {
+    background-color: black;
+    color: white;
+    height: 40px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
