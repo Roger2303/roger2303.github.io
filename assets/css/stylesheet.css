@@ -13,7 +13,7 @@
 #p1 {
     padding: 5px;
     margin-left: 10px;
-    background-image: url(assets/imgs/currículum.png);
+    background-image:var(assets/imgs/currículum.png)
 }
 #footer {
     background-color: black;
@@ -22,4 +22,9 @@
     justify-content: center;
     text-align: center;
     align-items: center;
+}
+.fondo {
+    background-image: url(assets/imgs/mibice.png);
+    height: 50;
+    width: 50;
 }
